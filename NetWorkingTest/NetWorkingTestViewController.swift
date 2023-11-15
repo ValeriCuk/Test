@@ -1,6 +1,7 @@
 import UIKit
 import WebKit
 
+
 class NetWorkingTestViewController: UIViewController {
 //    200 https://jsonplaceholder.typicode.com/todos/1
 //    base https://bubblecrush.xyz/starting
@@ -84,3 +85,4 @@ extension NetWorkingTestViewController: WKNavigationDelegate {
         }
     }
 }
+
